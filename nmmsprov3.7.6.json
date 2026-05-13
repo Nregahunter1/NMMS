@@ -20,11 +20,6 @@
     "expiresAt": "2026-05-13"
   },
   {
-    "id": "13f03d226aa9de60",
-    "key": "FacePro00",
-    "expiresAt": "2026-05-13"
-  },
-  {
     "id": "eb12f072419d4343",
     "key": "FacePro01",
     "expiresAt": "2026-03-14"
@@ -743,6 +738,11 @@
     "id": "60049ffb596db40f",
     "key": "FacePro140",
     "expiresAt": "2026-05-21"
+  },
+  {
+    "id": "13f03d226aa9de60",
+    "key": "FacePro141",
+    "expiresAt": "2026-06-13"
   },
   {
     "id": "7b53ef8ebb64039b",
